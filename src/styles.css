@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: rgb(14, 111, 112);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(255,99,71,1) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+ 
+
+}
